@@ -2,6 +2,10 @@
 
 ## Amplify
 
+Can use webhooks to trigger deployment from several repo.
+
+No multi regions deployments.
+
 ```
 version: 1
 frontend:
