@@ -2,4 +2,4 @@
 
 ## Amplify
 
-yaml
+yaml - 1
